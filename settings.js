@@ -7,7 +7,7 @@ let endPointRef = "https://cloud.scorm.com/lrs/WIGWJ7R4FM/sandbox/"
 
 //Reporting Variables
 let objectID = "https://www.testxAPIslowen";
-let objectName = "Video 1 xAPI Test";
+let objectName = "Video 1 xAPI Test for 2023 Data Conference";
 
 // Display labels
 let videoID = "876729966";
